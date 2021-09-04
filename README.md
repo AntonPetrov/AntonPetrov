@@ -1,6 +1,6 @@
 ### Anton I. Petrov
 
-I am a bioinformatician specialising on non-coding RNA. Currently I work at [EMBL-EBI](https://www.ebi.ac.uk) where I lead a small team responsible for the development of [RNAcentral](https://github.com/rnacentral) and [Rfam](https://github.com/rfam) databases. Most recently I also created [R2DT](https://www.nature.com/articles/s41467-021-23555-5), a new method for RNA secondary structure visualisation using standard, community-accepted orientations.
+I am a bioinformatician specialising in non-coding RNA. Currently I work at [EMBL-EBI](https://www.ebi.ac.uk) where I lead a small team responsible for the development of [RNAcentral](https://github.com/rnacentral) and [Rfam](https://github.com/rfam) databases. Most recently I created [R2DT](https://www.nature.com/articles/s41467-021-23555-5), a new method for RNA secondary structure visualisation using standard, community-accepted orientations.
 
 I am also interested in RNA 3D structure, and during my PhD at the [BGSU RNA group](https://github.com/BGSU-RNA) I developed [RNA 3D Motif Atlas](https://github.com/BGSU-RNA/RNA-3D-Hub-core) that automatically classifies a representative set of RNA motifs.
 
