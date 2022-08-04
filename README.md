@@ -9,4 +9,3 @@ I am also interested in RNA 3D structure, and during my PhD at the [BGSU RNA gro
 - 📖 Find my papers at [ORCID](https://orcid.org/0000-0001-7279-2682)
 - 📂 View my peer review and editorial records on [Publons](https://publons.com/researcher/391112/anton-petrov/)
 - 📇 Connect on [LinkedIn](https://www.linkedin.com/in/aipetrov)
-- 📝 Reach out by [email](https://www.ebi.ac.uk/about/people/anton-petrov)
